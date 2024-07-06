@@ -1,7 +1,5 @@
 # 🩺 Prescription Advisor RAG-Based Chatbot 💊
 
-![Logo](https://via.placeholder.com/150)
-
 Welcome to the Prescription Advisor RAG-Based Chatbot! This interactive chatbot assists users by analyzing their prescription PDFs and providing relevant guidance. Say goodbye to confusion and hello to clarity! 🚀
 
 ## ⭐ Features
